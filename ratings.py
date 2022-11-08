@@ -14,7 +14,7 @@ def rate_restaurant(filename):
       # print(restaurant_ratings)
     restaurants_view = restaurant_ratings.items()
     restaurants_rating_list = sorted(restaurants_view)
-    print(restaurants_rating_list)
+   # print(restaurants_rating_list)
     return restaurants_rating_list
        
      
